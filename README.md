@@ -74,7 +74,7 @@
 <h2 align="left">Get in Touch! 📬</h2>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/josuegarciada" target="blank"><img align="center" src="https://img.shields.io/badge/Josue Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:damian.garcia.12.200@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/damian.garcia.12.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/JosDamQ" target="blank"><img align="center" src="https://img.shields.io/badge/JosDamQ-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/josuegarciada" target="blank"><img align="center" src="https://img.shields.io/badge/Josue Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:damian.garcia.12.200@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/damian.garcia.12.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
 </p>
 
 
