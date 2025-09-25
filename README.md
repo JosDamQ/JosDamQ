@@ -65,6 +65,7 @@
 
 <h2 align="left">GitHub Activity</h2>
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosDamQ&theme=dracula&hide_border=truehide_border=false" height="150" padding="10px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosDamQ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <hr>
