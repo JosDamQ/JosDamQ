@@ -1,21 +1,32 @@
-![github-header-image (1)](https://github.com/JosDamQ/JosDamQ/assets/108351177/b0a7bec0-6ade-427f-96ab-081fc3403278)
-<hr>
-<br>
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://github.com/JosDamQ/JosDamQ/assets/108351177/b0a7bec0-6ade-427f-96ab-081fc3403278" alt="Header" width="100%" />
+</p>
 
-<h2 align="left">About me</h2>
+---
 
-###
+<p align="left">
+  <b>✨ Creating bugs since 2021</b> <br>
+  📚 <b>Currently learning:</b> React <br>
+  🎯 <b>Goal:</b> Become a Senior MERN Developer <br>
+  ⚽️ <b>Fun fact:</b> I love to play soccer!
+</p>
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning React <br>🎯 Goals: Become a senior developer at MERN<br>🎲 Fun fact: I love play soccer ⚽️</p>
+---
 
-###
-<br>
+## 🚀 About Me
 
-<h2 align="left">I code with</h2>
+- 🔭 I’m passionate about building full-stack web applications.
+- 🌱 Always growing: currently diving deeper into <b>TypeScript</b> and <b>React</b>.
+- 💡 I enjoy working with <b>MERN stack</b> and exploring new technologies.
+- 🛠️ I love open source and contributing to community-driven projects.
+- 🌎 Based in Guatemala City.
 
-###
+---
 
-<div align="left">
+## 🛠️ Tech Stack
+
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -56,25 +67,71 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
-</div>
-
-###
-
-<hr>
-<br>
-
-<h2 align="left">GitHub Activity</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosDamQ&theme=dracula&hide_border=truehide_border=false" height="150" padding="10px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosDamQ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-<hr>
-
-<br>
-<h2 align="left">Get in Touch! 📬</h2>
-<Br>
-<p align="center">
-<a href="https://www.linkedin.com/in/josuegarciada" target="blank"><img align="center" src="https://img.shields.io/badge/Josue Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:damian.garcia.12.200@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/damian.garcia.12.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
 </p>
 
+---
 
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosDamQ&theme=dracula&hide_border=truehide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosDamQ&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150"/>
+  <br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=JosDamQ&show_icons=true&theme=dracula&hide_border=false" height="150"/>
+  <br> -->
+  <!-- <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=JosDamQ&theme=dracula&margin-w=10&no-frame=true" height="120"/> -->
+</p>
+
+---
+
+## 📝 Latest Projects
+
+- [URL-Shorting-service](https://github.com/JosDamQ/URL-shorting-service): Proyect to short a url
+- [QuickBoxFinal](https://github.com/QuickShippingLogistics/QuickBoxFinal): Logistics and shipping management
+- [marketing-qbus](https://github.com/QuickShippingLogistics/marketing-qbus): Marketing platform for logistics
+- [Cinema](https://github.com/JosDamQ/Cinema): Movie management project
+
+---
+
+## 📣 What I’m Currently Focusing On
+
+- Learning advanced React patterns and hooks
+- Building scalable backends with Node.js & Express
+- Improving my DevOps skills (Docker, CI/CD)
+- Exploring Next.js and server-side rendering
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/josuegarciada" target="_blank">
+    <img src="https://img.shields.io/badge/Josue Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" &nbsp;&nbsp;&nbsp/>
+  </a>
+   &nbsp;&nbsp;&nbsp;  
+  <a href="mailto:josuedamian.q@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p> 
+<!-- <p align="center">
+  <a href="https://www.linkedin.com/in/josuegarciada" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Josue Garcia-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  &nbsp;&nbsp;&nbsp;  
+  <a href="mailto:damian.garcia.12.200@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/damian.garcia.12.2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    
+</p> -->
+
+---
+
+## 📢 Fun & Extras
+
+- 📝 **Quote I live by:** <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+- 🎮 When I’m not coding, you’ll find me playing soccer or gaming.
+- 🎧 Music fuels my productivity!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JosDamQ&style=flat-square&color=blue" alt="Profile views"/>
+</p>
