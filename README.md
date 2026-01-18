@@ -7,7 +7,7 @@
 
 <p align="left">
   <b>✨ Creating bugs since 2021</b> <br>
-  📚 <b>Currently learning:</b> React <br>
+  📚 <b>Currently learning:</b> Mobile develepor <br>
   🎯 <b>Goal:</b> Become a Senior MERN Developer <br>
   ⚽️ <b>Fun fact:</b> I love to play soccer!
 </p>
@@ -67,6 +67,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
 </p>
 
 ---
@@ -88,8 +94,8 @@
 ## 📝 Latest Projects
 
 - [URL-Shorting-service](https://github.com/JosDamQ/URL-shorting-service): Proyect to short a url
-- [QuickBoxFinal](https://github.com/QuickShippingLogistics/QuickBoxFinal): Logistics and shipping management
-- [marketing-qbus](https://github.com/QuickShippingLogistics/marketing-qbus): Marketing platform for logistics
+- [Finanzas-Back](https://github.com/JosDamQ/finanzas-back): Personal finance managment back
+- [Finanzas-Front](https://github.com/JosDamQ/finanzas-front): Personal finance managment front
 - [Cinema](https://github.com/JosDamQ/Cinema): Movie management project
 
 ---
